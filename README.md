@@ -4,8 +4,8 @@ A data cleaning and visualization project using a dataset of 200+ books about Da
 
 - Handling missing values and inconsistent entries
 - Removing duplicates and correcting data types
-- Standardizing categorical data
 - Visualizing trends and insights with Matplotlib and Seaborn
+- Analyzing commonly used words using text tokenization
 
 The notebook contains thorough annotations for every step of the process. 
 
